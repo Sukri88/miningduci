@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "168.235.86.33:3393", "wallet_address" : "SK_pDKo9B7rTqyPDrYeohNv5.Muamarumu", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "192.168.43.246:3393", "wallet_address" : "SK_QzApkbVGsAxyQykaWSnEF.Muamaru", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
